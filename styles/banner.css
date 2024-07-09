@@ -1,0 +1,35 @@
+.banner{
+    background-image: url(../assets/Hero-bg.png);
+    background-size: cover;
+    width: 100%;
+    padding: 40px;
+}
+.banner div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+    width: 75%;
+    margin: 0 auto;
+}
+
+.banner div h2{
+    font-size: 48px;
+}
+
+.banner div p{
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+
+}
+
+.banner div button{
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    padding: 18px 28px 18px 28px;
+}
