@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .navbar{
     font-size: 28px;
     font-weight: 800;
@@ -5,7 +11,7 @@
     width: 80%;
     font-family: "Azeret Mono";
     display: flex;
-    margin: 0 auto;
+    margin: 40px auto;
     justify-content: space-between;
     align-items: center;
 }
