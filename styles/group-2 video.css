@@ -1,0 +1,37 @@
+.video {
+    width: 80%;
+    margin: 64px auto;
+  }
+  
+  .video-title {
+    font-family: "Azeret Mono";
+    text-align: center;
+  }
+  
+  .video-title h2 {
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    margin-bottom: 20px;
+  }
+  
+  .video-title p {
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  
+  .video-container {
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 32px;
+    margin: 48px 0px;
+  }
+  
+  .video-container iframe {
+    width: 100%;
+    border-radius: 16px;
+  }
