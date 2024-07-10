@@ -61,7 +61,7 @@
     line-height: 24px;
   }
   
-  .group-text button {
+  .group-text a {
     box-sizing: border-box;
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
@@ -73,6 +73,7 @@
     line-height: 23px;
     text-align: center;
     background-color: white;
+    text-decoration: none;
   }
   
   .layer-1 {
