@@ -1,0 +1,22 @@
+.bg{
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+.footer{
+    width: 80%;
+    margin: 48px auto 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 0;
+}
+
+.footer h3{
+    font-family: "Azeret Mono";
+}
+
+.footer div{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
